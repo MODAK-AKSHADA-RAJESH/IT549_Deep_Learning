@@ -5,6 +5,7 @@
 The dataset used in this project consists of images containing multiple object classes along with corresponding annotations in Pascal VOC format. It is used for training, validation, and evaluation of object detection models across different architectures including R-CNN, Faster R-CNN, and YOLO.
 
 ---
+## Dataset Link - https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detection/data
 
 ## Dataset Structure
 
